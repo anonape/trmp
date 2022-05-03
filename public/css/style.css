@@ -1,0 +1,31 @@
+.bg-0 {
+    background-color: white;
+}
+
+.bg-red {
+    background-color: #DA1333;
+}
+
+.bg-f2 {
+    background-color: #f2f2f2;
+}
+
+.hex-d {
+    color: #DDDDDD;
+}
+
+.hex-0 {
+    color: white;
+}
+
+.hex-red {
+    color: #DA1333;
+}
+
+.hex-gold {
+    color:#EFC767;
+}
+
+.thick {
+    font-weight: 900;
+}
